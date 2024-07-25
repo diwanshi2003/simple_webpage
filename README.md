@@ -16,7 +16,8 @@ The primary goal of the project is to create an online platform where customers 
 
 ![image](https://github.com/user-attachments/assets/06423173-4338-4b3b-943a-ade022c74d30)
 
-![image](https://github.com/user-attachments/assets/2c292df5-8329-446c-bb9d-1a5fe872c47c)
+![image](https://github.com/user-attachments/assets/29ce98e4-5307-48fc-b437-0d98337a1470)
+
 
 
 
