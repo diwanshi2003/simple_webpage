@@ -1,0 +1,46 @@
+/* Reset and base styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+    color: #333; /* Dark gray text color */
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px 0;
+    background-color: #343a40; /* Dark background color */
+    color: #fff; /* White text color */
+}
+
+/* Cards */
+.card {
+    transition: transform 0.3s ease-in-out;
+    margin-bottom: 30px; /* Space between cards */
+}
+
+.card:hover {
+    transform: scale(1.05); /* Increase size on hover */
+}
+
+@media (min-width: 768px) {
+    /* Medium devices (tablets, desktops) */
+    .card {
+        margin-bottom: 0;
+    }
+}
+
